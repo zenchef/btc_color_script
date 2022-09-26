@@ -1,0 +1,17 @@
+--2022-09-25 11:09:07--  https://docs.google.com/spreadsheets/d/1DkqiGcV--2Rr-bTqflsExqsilvw7xPWyEymLrA-yueY/export?format=csv&gid=0
+Résolution de docs.google.com (docs.google.com)… 2a00:1450:4007:817::200e, 216.58.204.142
+Connexion à docs.google.com (docs.google.com)|2a00:1450:4007:817::200e|:443… connecté.
+requête HTTP transmise, en attente de la réponse… 307 Temporary Redirect
+Emplacement : https://doc-0k-2k-sheets.googleusercontent.com/export/3sm34aofsvmt5ehut1q6bddr3o/gr2jflrr76dm2ikj9ejo8b4esc/1664096945000/100472975836024615996/*/1DkqiGcV--2Rr-bTqflsExqsilvw7xPWyEymLrA-yueY?format=csv&gid=0 [suivant]
+Avertissement : les jokers ne sont pas permis en HTTP.
+--2022-09-25 11:09:08--  https://doc-0k-2k-sheets.googleusercontent.com/export/3sm34aofsvmt5ehut1q6bddr3o/gr2jflrr76dm2ikj9ejo8b4esc/1664096945000/100472975836024615996/*/1DkqiGcV--2Rr-bTqflsExqsilvw7xPWyEymLrA-yueY?format=csv&gid=0
+Résolution de doc-0k-2k-sheets.googleusercontent.com (doc-0k-2k-sheets.googleusercontent.com)… 2a00:1450:4007:815::2001, 216.58.213.129
+Connexion à doc-0k-2k-sheets.googleusercontent.com (doc-0k-2k-sheets.googleusercontent.com)|2a00:1450:4007:815::2001|:443… connecté.
+requête HTTP transmise, en attente de la réponse… 200 OK
+Taille : non indiqué [text/csv]
+Sauvegarde en : « downloaded_content.csv »
+
+     0K                                                         581K=0s
+
+2022-09-25 11:09:08 (581 KB/s) - « downloaded_content.csv » sauvegardé [22]
+
